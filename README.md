@@ -1,4 +1,4 @@
-#Projeto: Detecção de Fraudes no Pix
+# Projeto: Detecção de Fraudes no Pix
 
 Este projeto é um protótipo de análise de dados e detecção de fraudes no Pix.
 Foi desenvolvido para aprendizado e portfólio.
